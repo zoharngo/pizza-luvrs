@@ -12,7 +12,7 @@
   "dependencies": {
     "@hapi/boom": "7.4.2",
     "@hapi/catbox": "10.2.1",
-    "@hapi/catbox-redis": "5.0.2",
+    "@hapi/catbox-redis": "7.0.0",
     "@hapi/cookie": "10.1.0",
     "@hapi/good": "8.2.0",
     "@hapi/good-squeeze": "5.2.0",
